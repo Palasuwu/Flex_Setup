@@ -1,0 +1,11 @@
+// Esto es un comentario de linea
+int variable_1 = 100;
+float pi = 3.14159;
+double ciencia = 1.5e-10;
+int hex = 0xFF;
+String saludo = "Hola \"Mundo\" \n";
+/* Comentario
+   multilinea */
+if (a >= b && c != d) {
+   resultado = a * b;
+}

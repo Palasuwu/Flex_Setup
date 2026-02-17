@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double valor = 4.5e-2; /* Notacion cientifica */
+    if (valor != 0) {
+        return 1;
+    }
+}
